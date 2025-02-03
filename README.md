@@ -1,1 +1,2 @@
-# Emotion_recognition_on_TESS_dataset
+# Emotion_recognition_on_TESS_dataset  
+This project aims to create a classifier that can identify emotions based on speech audio. The model is trained on the TESS dataset, which includes 2800 high-quality WAV audio recordings made by two female actresses, aged 26 and 64. Each audio sample conveys one of seven emotions: anger, disgust, fear, happiness, pleasant surprise, sadness, and neutral. The project employs deep learning methods to construct a strong and generalized model for recognizing emotions in speech.
